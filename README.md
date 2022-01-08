@@ -1,6 +1,6 @@
 # Sketchup-Progressbar-with-Ruby2D
 
-This example of an out-of-process progress bar requires the user to have a standalone version of Ruby installed ont their computer. In addition the Ruby2D gem must have been installed.
+This example of an out-of-process progress bar requires the user to have a standalone version of Ruby installed into their computer. In addition the Ruby2D gem must have been installed.
 
 Stand Alone Ruby: 
 https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.0.2-1/rubyinstaller-devkit-3.0.2-1-x64.exe
